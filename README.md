@@ -73,7 +73,7 @@ npm run c  -> ex.[http://localhost:9000/]
 
 -----
 ## 📜 License
-This project is distributed under the ISC  License. See the LICENSE file in the repository root for full details.
+This project is distributed under the MIT License. See the LICENSE file in the repository root for full details.
 
 -----
 ## 📧 Contact
