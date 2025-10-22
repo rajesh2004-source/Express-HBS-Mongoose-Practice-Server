@@ -1,0 +1,20 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "A Node.js Express server using HBS (Handlebars) for views and Mongoose for database handling.",
+  "main": "src/start.js",
+  "scripts": {
+    "start": "node src/start.js",
+    "a":"node src/home.js",
+    "b":"node src/index.js",
+    "c":"node src/jsonn.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajesh mahale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^7.2.2"
+  }
+}
